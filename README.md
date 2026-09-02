@@ -1,5 +1,5 @@
 # 🧠 Experiment 8: Reproducing an Image Using Prompts for Image Generation
-## REF - 212224240015
+## Reg - 212224240015
 ## 🎯 Aim
 To reproduce a given image using AI text-to-image generation tools by analyzing its visual details and crafting accurate prompts.  
 The objective is to understand how descriptive prompts influence the accuracy and creativity of the generated image.
